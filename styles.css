@@ -1,0 +1,8 @@
+#todo_active span {
+    color : green;
+}
+
+#todo_done span {
+    color : red;
+    text-decoration : line-through;
+}
